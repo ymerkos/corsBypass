@@ -1,8 +1,14 @@
 {
-    "name": "nodejs-hello-world",
+    "name": "awtsmoos web push",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
-    }
+    },
+    "author": "Yackov Yitzchak Kaufer",
+  
+      "dependencies": {
+       
+        "web-push": "^3.2.2"
+      }
 }
